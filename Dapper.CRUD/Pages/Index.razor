@@ -1,0 +1,23 @@
+﻿@page "/"
+
+@using Dapper.CRUD.Data
+
+<SfGrid TValue="Bug" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })">
+    <SfDataManager AdaptorInstance="typeof(BugDataAdaptor)" Adaptor="Adaptors.CustomAdaptor"></SfDataManager>
+    <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true"></GridEditSettings>
+    <GridColumns>
+        <GridColumn Field="@nameof(Bug.Id)" IsPrimaryKey="true" Visible="false"></GridColumn>
+        <GridColumn Field="@nameof(Bug.Summary)" Width="100"></GridColumn>
+        <GridColumn Field="@nameof(Bug.BugPriority)" HeaderText="Priority" Width="100"></GridColumn>
+        <GridColumn Field="@nameof(Bug.Assignee)" Width="100"></GridColumn>
+        <GridColumn Field="@nameof(Bug.BugStatus)" HeaderText="Status" Width="100"></GridColumn>
+    </GridColumns>
+    <GridEvents TValue="Bug" OnActionFailure="Failure"></GridEvents>
+</SfGrid>
+
+@code{
+    void Failure(FailureEventArgs e)
+    {
+
+    }
+}
