@@ -12,3 +12,5 @@ This sample was created to depict DataGrid CRUD operation in SQL server database
 * Run `dotnet run`.
 * Open https://locahost:5001 to see the application.
 
+## Blog Reference
+* <a href="https://www.syncfusion.com/blogs/post/build-blazor-crud-application-with-dapper.aspx"> How to Build a Blazor CRUD Application with Dapper</a>
