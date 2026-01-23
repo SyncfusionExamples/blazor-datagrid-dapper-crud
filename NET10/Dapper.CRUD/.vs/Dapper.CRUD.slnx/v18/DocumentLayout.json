@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dapper.CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|d:\\dapper.crud\\dapper.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|solutionrelative:dapper.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|d:\\dapper.crud\\dapper.crud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|solutionrelative:dapper.crud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|d:\\dapper.crud\\dapper.crud\\dapper.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41CDD5A7-182B-3AB4-F599-554AE4AF05CC}|Dapper.CRUD\\Dapper.CRUD.csproj|solutionrelative:dapper.crud\\dapper.crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Dapper.CRUD\\Dapper.CRUD\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Dapper.CRUD\\Components\\App.razor",
+              "ToolTip": "D:\\Dapper.CRUD\\Dapper.CRUD\\Components\\App.razor",
+              "RelativeToolTip": "Dapper.CRUD\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T06:38:45.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dapper.CRUD",
+              "DocumentMoniker": "D:\\Dapper.CRUD\\Dapper.CRUD\\Dapper.CRUD.csproj",
+              "RelativeDocumentMoniker": "Dapper.CRUD\\Dapper.CRUD.csproj",
+              "ToolTip": "D:\\Dapper.CRUD\\Dapper.CRUD\\Dapper.CRUD.csproj",
+              "RelativeToolTip": "Dapper.CRUD\\Dapper.CRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T06:29:33.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dapper.CRUD\\Dapper.CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper.CRUD\\appsettings.json",
+              "ToolTip": "D:\\Dapper.CRUD\\Dapper.CRUD\\appsettings.json",
+              "RelativeToolTip": "Dapper.CRUD\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-31T05:35:41.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
